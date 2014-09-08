@@ -1,7 +1,6 @@
 [Oo]bj/
 [Bb]in/
 [Ll]ib/
-Properties/
 *.xap
 *.user
 /TestResults
@@ -24,7 +23,6 @@ PublishProfiles/
 *.vsp
 *.pidb
 *.userprefs
-*.csproj
 *DS_Store
 *.ncrunchsolution
 *.log
